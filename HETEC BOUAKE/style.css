@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(244, 244, 252);
+    color: rgb(0, 4, 7);
+}
+
+nav{
+    background-color: orange;
+    height: 45px;width: 2000px;
+}
+
+h12{
+    color: rgb(253, 248, 248);
+    background-color: rgb(27, 26, 26);
+    padding: 20px;
+}
+
+h13:{
+    color: blue;
+}
+
+h2{
+    color: blue;
+}
+ tr{
+    text-align: center;
+ }
+
+ footer{
+    background-color: rgb(255, 0, 149);
+    height: 45px;width: 2000px;
+ }

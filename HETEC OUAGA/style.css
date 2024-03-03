@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(new.png);
+    background-position-x: center;
+}
+
+tr{
+    text-align: center;
+    position: relative;
+    left: 24px;;
+}
+h1{
+    color: rgb(0, 5, 8);
+    background-color: rgb(27, 145, 248);
+    padding: 13px;
+}
+
+nav{
+    background-color: red;
+    padding-bottom: 25px;
+}

@@ -1,0 +1,41 @@
+
+    .tilte_big{
+        color: rgb(55, 12, 248);
+    }
+
+    body{
+        background-color: rgba(90, 59, 60, 0.062);
+    }
+    nav:hover{
+        color: black;
+        background: url(pa.jpg);
+        border-radius: 30px;
+        box-shadow: 1px 3px;
+        color: brown;
+    margin: 3px;
+    padding: 0%;
+    box-shadow: 0 2px 2px;
+    border: 2px solid blue;
+    border-radius: 10px;  
+    
+    }
+
+    h22{
+        color: red;
+    }
+
+    h23{
+        color: rgb(17, 0, 255);
+    }
+    
+nav1 a:hover{
+    border-radius: 30px;
+    box-shadow: 1px 3px;
+    color: brown;
+margin: 3px;
+padding: 0%;
+box-shadow: 0 2px 2px;
+border: 2px solid blue;
+border-radius: 10px; 
+}
+    

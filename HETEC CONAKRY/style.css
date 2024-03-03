@@ -1,0 +1,23 @@
+body:hover{
+    background-color: rgb(221, 248, 168);
+    background-image: url(co.png);
+}
+
+tr{
+    text-align: center;
+}
+
+h1{
+    color: rgb(247, 243, 243);
+    background-color: rgb(139, 56, 56);
+    padding: 15px;
+}
+
+img{
+    height: 250px;
+    width: 355px;
+}
+
+nav{
+    background-image:url(2.jpg);
+}

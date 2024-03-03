@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    background-color: red;
+}
+
+body{
+background-color: rgb(255, 249, 249);
+}
+nav{
+    background-image: url(1.jpg);
+    height: 100px;
+    
+}

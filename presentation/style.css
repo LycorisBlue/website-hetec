@@ -1,0 +1,30 @@
+body{
+    
+    color: rgb(0, 9, 12);
+    text-decoration: aqua;
+    background-color: black;
+     background-image: url(3.png);
+}
+
+.BAC{
+    position: relative;
+    height: 20px;
+    
+}
+
+nav{
+    background-image: url(1.jpg);
+}
+
+h11{
+    color: red;
+}
+
+h12{
+    color:blue;
+}
+
+h13{
+    color: red;
+    background-color: blue;
+}
